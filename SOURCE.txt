@@ -1,0 +1,16 @@
+Shadowsocks-rust offline redistribution information
+
+Upstream project: https://github.com/shadowsocks/shadowsocks-rust
+Version: v1.25.0
+Release: https://github.com/shadowsocks/shadowsocks-rust/releases/tag/v1.25.0
+
+Bundled official assets:
+- shadowsocks-v1.25.0.x86_64-unknown-linux-musl.tar.xz
+- shadowsocks-v1.25.0.aarch64-unknown-linux-musl.tar.xz
+
+The matching upstream .sha256 files were verified before extracting ssserver.
+Bundled binary SHA-256 values:
+- x86_64: d63836978a3d2534f0ea1206ca12502b77b965fcfed2958d327353071b6bbf91
+- aarch64: 9a836be84d6dbacfe727dd22ea6b3e169b633568bb9e27171e1eba625ae1655f
+
+The upstream license is included as LICENSE-shadowsocks-rust.
